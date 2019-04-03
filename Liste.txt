@@ -1,3 +1,5 @@
 Mon nom est sophiane et je vais partir
 
-Je suis arrivé aujourd'huii avec un mal de crâne. 
+Je suis arrivé aujourd'hui avec un mal de crâne.
+
+Je test à présent le git push, git commit git add enfin bref la famille git quoi 
